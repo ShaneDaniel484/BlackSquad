@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="methods" name="Test(failed)">
+    <classes>
+      <class name="com.stepDefinitions.aboutPageStepDefinitionsTest">
+        <methods>
+          <include name="selects_month_of_travelTest"/>
+          <include name="clicks_on_registerTest"/>
+          <include name="user_enters_the_valid_passwordTest"/>
+          <include name="setupTest"/>
+          <include name="user_recieve_the_modified_searchTest"/>
+          <include name="user_clicks_on_the_search_buttonTest"/>
+          <include name="user_is_in_the_thomasCOOK_pageTest"/>
+          <include name="the_user_gets_the_information_about_thomascookTest"/>
+          <include name="user_clicks_on_the_search_flight_buttonTest"/>
+          <include name="changes_successfull_message_is_displayedTest"/>
+          <include name="user_clicks_on_modify_buttonTest"/>
+          <include name="user_clicks_on_loginbuttonTest"/>
+          <include name="the_user_gets_the_priacy_policy_informationTest"/>
+          <include name="the_user_clicks_on_board_of_directorsTest"/>
+          <include name="selects_budgetTest"/>
+          <include name="the_user_select_a_month_of_travel_as_febTest"/>
+          <include name="user_fills_in_their_detailsTest"/>
+          <include name="clicks_search_buttonTest"/>
+          <include name="user_gives_the_from_locationTest"/>
+          <include name="user_clicks_the_login_button_on_top_right_corner_of_homepageTest"/>
+          <include name="user_clicks_on_modify_search_to_change_date_and_departure_cityTest"/>
+          <include name="user_clicks_the_cruise_buttonTest"/>
+          <include name="user_is_navigated_to_homepage_with_user_logged_inTest"/>
+          <include name="user_clicks_register_buttonTest"/>
+          <include name="the_user_click_on_my_accountTest"/>
+          <include name="tearDownTest"/>
+          <include name="user_selects_the_value_from_dropdownTest"/>
+          <include name="user_clicks_on_about_usTest"/>
+          <include name="user_is_in_the_thomascook_pageTest"/>
+          <include name="i_want_to_select_a_holiday_categoryTest"/>
+          <include name="the_user_clicks_on_policiesTest"/>
+          <include name="user_clicks_on_the_oneway_tripTest"/>
+          <include name="user_gives_the_to_locationTest"/>
+          <include name="finally_user_clicks_the_loginbutton_and_user_in_homepage_of_registered_userTest"/>
+          <include name="the_desired_tour_package_is_displayedTest"/>
+          <include name="cruisePageStepDefinitionTest"/>
+          <include name="user_sorts_the_searchTest"/>
+          <include name="user_enters_the_PasswordTest"/>
+          <include name="user_is_in_the_thomascook_page_from_loginTest"/>
+          <include name="user_is_on_thomascook_homepageTest"/>
+          <include name="the_user_clicks_on_the_flightsTest"/>
+          <include name="the_user_select_the_city_marvel_of_georgiaTest"/>
+          <include name="user_clicks_the_dateTest"/>
+          <include name="user_gives_place_nameTest"/>
+          <include name="user_click_a_save_buttonTest"/>
+          <include name="user_gets_search_results_for_the_searchTest"/>
+          <include name="the_user_select_theme_with_a_familyTest"/>
+          <include name="the_user_get_board_directors_informationTest"/>
+          <include name="the_user_click_a_edit_buttonTest"/>
+          <include name="the_user_select_a_departure_city_as_chennaiTest"/>
+          <include name="the_user_select_a_package_type_without_a_flightTest"/>
+          <include name="the_user_select_a_europe_tour_packageTest"/>
+          <include name="user_selects_the_date_from_calendarTest"/>
+          <include name="user_is_on_thomascook_webpageTest"/>
+          <include name="the_user_changes_a_mobile_numberTest"/>
+          <include name="the_user_select_a_duration_of_travel_less_than_nightsTest"/>
+          <include name="the_user_click_an_view_my_accountTest"/>
+          <include name="again_user_clicks_login_button_shows_in_drop_downTest"/>
+          <include name="user_is_on_thomascook_websiteTest"/>
+          <include name="customer_is_on_thomascook_pageTest"/>
+          <include name="user_enters_the_valid_email_id_in_popup_which_shownTest"/>
+          <include name="user_enters_the_EmailTest"/>
+        </methods>
+      </class> <!-- com.stepDefinitions.aboutPageStepDefinitionsTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
